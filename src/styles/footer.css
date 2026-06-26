@@ -1,0 +1,22 @@
+.footer {
+  background-color: #1e293b;
+  color: white;
+  padding: 35px 60px;
+  margin-top: 50px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer h3 {
+  margin-bottom: 8px;
+}
+
+.footer p {
+  color: #cbd5e1;
+}
+
+.copyright {
+  font-size: 14px;
+}

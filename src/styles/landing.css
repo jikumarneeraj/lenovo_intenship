@@ -1,0 +1,141 @@
+.hero {
+  text-align: center;
+  padding: 100px 20px;
+  background-color: #f8fafc;
+}
+
+.hero h1 {
+  font-size: 48px;
+  color: #1e293b;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  width: 60%;
+  margin: auto;
+  color: #64748b;
+  line-height: 1.8;
+  margin-bottom: 30px;
+}
+
+.hero button {
+  padding: 12px 28px;
+  border: none;
+  background-color: #6d28d9;
+  color: white;
+  border-radius: 30px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.hero button:hover {
+  background-color: #5b21b6;
+}
+
+.features-section {
+  width: 85%;
+  margin: 70px auto;
+
+  display: flex;
+  gap: 25px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.feature-card {
+  width: 280px;
+  background-color: white;
+  padding: 30px;
+  border-radius: 18px;
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.08);
+  text-align: center;
+}
+
+.feature-card h3 {
+  color: #6d28d9;
+  margin-bottom: 15px;
+}
+.features-section {
+  width: 85%;
+  margin: 70px auto;
+  margin-bottom: 100px;
+  display: flex;
+  gap: 25px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.feature-card {
+  width: 280px;
+  background-color: white;
+  padding: 30px;
+  border-radius: 18px;
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.08);
+  text-align: center;
+}
+
+.feature-card h3 {
+  color: #6d28d9;
+  margin-bottom: 15px;
+}
+
+.feature-card p {
+  color: #64748b;
+  line-height: 1.6;
+}
+.feature-card p {
+  color: #64748b;
+  line-height: 1.6;
+}
+
+.testimonial-section {
+  padding: 80px 20px;
+  background-color: white;
+  text-align: center;
+}
+
+.testimonial-section h2 {
+  margin-bottom: 40px;
+  color: #1e293b;
+}
+
+.testimonial-card {
+  width: 70%;
+  margin: 20px auto;
+  background-color: #f8fafc;
+  padding: 25px;
+  border-radius: 15px;
+}
+
+.testimonial-card p {
+  color: #475569;
+  margin-bottom: 15px;
+}
+
+.testimonial-card h4 {
+  color: #6d28d9;
+}
+
+.cta-banner {
+  margin: 80px auto;
+  width: 85%;
+  background-color: #6d28d9;
+  color: white;
+  padding: 60px 20px;
+  border-radius: 25px;
+  text-align: center;
+}
+
+.cta-banner h2 {
+  margin-bottom: 25px;
+}
+
+.cta-banner button {
+  background-color: white;
+  color: #6d28d9;
+  border: none;
+  padding: 12px 28px;
+  border-radius: 30px;
+  cursor: pointer;
+  font-weight: bold;
+}
